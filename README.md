@@ -3,7 +3,7 @@ a tiny and simple command-line tool that gives you a quick statistical peek into
 
 ## usage
 ```bash
-python3 csv_summarizer.py path/to/data.csv
+python3 csvsummarizer.py path/to/data.csv
 ```
 ## example output
 ```text
